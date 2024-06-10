@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Engineering that focuses on App, Web and Game Development
 - 🌱 I’m currently learning Java on OOP and Enterprise Programing
 - 💞️ I’m looking to collaborate on projects when I actually learn how to use GitHub
-- 📫 How to reach me wm.najmi.k@gmail.com
 
 <!---
 NajmiKai/NajmiKai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
